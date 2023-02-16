@@ -1,0 +1,42 @@
+.color{
+    background-color: rgb(29, 28, 28);
+}
+
+.logoFooter{
+    text-align: left;
+    padding: 10px 10px;
+    width: 80; 
+    height: auto;
+    margin-left: 20px;
+}
+
+.text{
+    
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-decoration: none;
+}
+
+.footerAling{
+    
+    display: flex;
+    position: relative;
+
+}
+
+.footerCenter{
+    text-align: center;
+}
+
+
+
+a {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+    text-transform: capitalize;
+    text-align: right; 
+    padding: 20px;
+}
+

@@ -1,0 +1,43 @@
+.widget{
+    color: white;
+    font-size: 40px;
+    text-align: right;
+    margin-left: 600px;
+    
+  
+}
+
+
+.estiloLogo{
+    text-align: left;
+    padding: 10px 10px;
+    width: 130px; 
+    height: auto;
+    margin-left: 20px;
+}
+
+
+.a{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 22px;
+    padding: 10px;
+}
+
+.link{
+
+color: rgb(163, 26, 26);
+font-size: 30px;
+}
+
+.cart{
+    align-items: center;
+}
+
+.number{
+    color: white;
+    text-decoration: none;
+    font-weight: bold;
+
+}

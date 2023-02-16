@@ -1,0 +1,20 @@
+.contactoDiv{
+    display: flex;
+}
+
+.formDetail{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 5px;
+
+   
+}
+
+.centrar{
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+
+

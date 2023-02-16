@@ -1,0 +1,33 @@
+
+.tamaño{
+    width: 200px; 
+    height: 200px;
+    margin-top: 10px;
+}
+
+
+.titulo{
+    font-family: 'Sansita Swashed', cursiva;
+    color: white;
+    text-align: center;
+    font-style: italic;
+}
+
+.texto {
+   
+    color: black;
+    background-color: rgb(163, 26, 26);
+    font-weight: bold;
+    text-transform: capitalize;
+     }
+
+
+.parrafo{
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-top: 80px;
+    font-size: 20px;
+    border: solid 2px black;
+    background-color: white;
+    padding: 2px;
+}

@@ -1,0 +1,69 @@
+
+.buttonAling{
+   
+    margin-left: 45%;
+    
+    
+}
+
+.titulo{
+    font-family: 'Sansita Swashed', cursiva;
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    font-style: italic;
+    margin-top: 20px;
+    font-weight: bold;
+    background-color: rgb(29, 28, 28);
+}
+
+.Cart{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    background-color: white;
+    
+}
+
+
+.product-detail{
+    display: flex;
+    background-color: white;
+    
+}
+
+.descriptionDetail{
+    text-align: center;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    margin-left: 40px;
+    margin-top: 20px;
+    
+   
+}
+
+.Text{
+    margin-left: 35%;
+    margin-top: 3%;
+    color: rgb(161, 29, 29);
+    font-weight: bold;
+}
+
+.Total{
+    color: rgb(161, 29, 29);
+    font-weight: bold;
+    padding: 1%;
+}
+
+.Ir{
+    color: white;
+    text-decoration: none;
+    font-weight: 500;
+    font-size: 22px;
+    padding: 10px;
+    border: solid 3px black;
+}
+
+.alert{
+    margin-bottom: 10%;
+}
